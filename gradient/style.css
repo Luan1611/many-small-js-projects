@@ -6,7 +6,7 @@
 }
 
 .square_1 {
-    background-image: linear-gradient(to bottom left, black, yellow 50%);
+    background-image: linear-gradient(to bottom left, black, yellow 80%);
     height: 200px;
     margin: 10px;
     width: 200px;
